@@ -1,8 +1,7 @@
 # Simple Calculator
 
 def add(a, b):
-    return a + b
-
+    return
 
 def multiply(a, b):
     return a * b
